@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vahid-soudagar" alt="vahid-soudagar" /></a> </p>
 
-- 🔭 I’m currently working on **Student Management System**
-
 - 🌱 I’m currently learning **Android**
 
 - 💬 Ask me about **Android, DSA**
