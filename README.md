@@ -4,7 +4,7 @@
 # 💫 About Me:
 Started with C in college—because who doesn’t love a little brain workout? I dabbled in the arts of HTML, CSS, and a dash of JavaScript, but it wasn’t until I met Java that I knew I was in love... until Kotlin swooped in. Now, I’m deep in Android development, battling bugs by day, and chasing my JVM Full-Stack dream with Spring Boot by night. Somewhere in between, I’m thinking about donning a wizard cape, but for now, it's code, more code, and... definitely no coffee. Just a cup of bug fixes and a pinch of magic. 🦸‍♂️
 
-🌍 Based in Mumbai, where dreams meet bytes<br>✉️ Reach out at mohammadvahidsoudagar264@gmail.com<br>🚀 Currently tinkering with Shelf-Share<br>🧠 Absorbing all things Spring Boot like a tech sponge<br>🤝 If you're into Java, Kotlin Android, Spring, or Spring Boot, let's make some tech magic together—no capes required<br>🎮 Hobbies: When I’m not coding, I’m probably leveling up in my latest video game obsession or hunting for the perfect meme <br>⚡ Fun fact: I'm Batman, but only after I squash those bugs. 🦇
+🌍 Based in Mumbai <br>✉️ Reach out at mohammadvahidsoudagar264@gmail.com<br>🚀 Currently tinkering with Shelf-Share<br>🧠 Absorbing all things Spring Boot like a tech sponge<br>🤝 If you're into Java, Kotlin Android, Spring, or Spring Boot, let's make some tech magic together—no capes required<br>🎮 Hobbies: When I’m not coding, I’m probably leveling up in my latest video game obsession or hunting for the perfect meme <br>⚡ Fun fact: I'm Batman, but only after I squash those bugs. 🦇
 
 
 ## 🌐 Socials:
